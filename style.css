@@ -1,0 +1,27 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+/* Global Styling */
+body {
+  font-family: 'Noto Serif', serif;
+  background-color: #f5f3ef;
+  color: #3e3e3e;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header Styles */
+h1, h2, h3 {
+  font-family: 'Volkhov', serif;
+  color: #4D5382;
+  margin-top: 1.5rem;
+  text-align: center;
+}
+
+/* Form Container */
+.form-section {
+  max-width: 800px;
+  margin: 2rem auto;
+  background-color: #fffdf8;
+  border-radius: 15px;
+  box-shadow: 0 4
